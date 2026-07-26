@@ -25,30 +25,44 @@ and giving software agents useful work to do.
 ## Start Here
 
 - 🤖 **[Pintu Bot](https://github.com/RealBhupesh/pintu-bot)** (50+ stars) - a Discord community bot with moderation, AI tools, music, and a complete virtual economy
-- ✈️ **[Physicore PCANN](https://github.com/RealBhupesh/mesh-solver-v1)** - physics-controlled neural networks for 2D airfoil flow, powered by a custom autodiff engine
-- 🏋️ **[AI Fitness Coach](https://github.com/RealBhupesh/fitness-coach-final)** - real-time posture feedback, dance scoring, training plans, and nutrition coaching
-- 📡 **[Beacon Uptime](https://github.com/RealBhupesh/native-uptime)** - Cloudflare-native uptime monitoring with safe endpoint discovery and browser journeys
-- 🏎️ **[AeroAssist](https://github.com/RealBhupesh/physics-engine)** - local-first aerodynamic analysis with a mini-CFD solver and interactive 3D visualization
+- ✈️ **[Physicore PCANN](https://github.com/RealBhupesh/physicore-pcann)** - physics-controlled neural networks for 2D airfoil flow, powered by a custom autodiff engine
+- 🏋️ **[AI Fitness Coach](https://github.com/RealBhupesh/ai-fitness-coach)** - real-time posture feedback, dance scoring, training plans, and nutrition coaching
+- 📡 **[Beacon Uptime](https://github.com/RealBhupesh/beacon-uptime)** - Cloudflare-native uptime monitoring with safe endpoint discovery and browser journeys
+- 🏎️ **[AeroAssist](https://github.com/RealBhupesh/aeroassist)** - local-first aerodynamic analysis with a mini-CFD solver and interactive 3D visualization
 
 ## Current Projects
 
 ### Physics & Engineering
 
-- 🌊 **[Physicore PCANN](https://github.com/RealBhupesh/mesh-solver-v1)** - airfoil-flow prediction with exact spatial derivatives and Navier-Stokes residuals
-- 🏎️ **[AeroAssist](https://github.com/RealBhupesh/physics-engine)** - transparent engineering calculations, local CFD, and AI-assisted explanations
+- 🌊 **[Physicore PCANN](https://github.com/RealBhupesh/physicore-pcann)** - airfoil-flow prediction with exact spatial derivatives and Navier-Stokes residuals
+- 🏎️ **[AeroAssist](https://github.com/RealBhupesh/aeroassist)** - transparent engineering calculations, local CFD, and AI-assisted explanations
+- 🛩️ **[NACA 4418 CFD Kernel](https://github.com/RealBhupesh/naca4418-cfd-kernel)** - a standalone finite-volume RANS solver written in Python
 - 🧪 **[Physicore](https://github.com/RealBhupesh/physicore-website)** - the home for my deterministic, high-performance physics work
 
 ### AI Agents & Communities
 
 - 🤖 **[Pintu Bot](https://github.com/RealBhupesh/pintu-bot)** - AI-enhanced Discord moderation and community automation
-- 🛡️ **[Valora](https://github.com/RealBhupesh/vercel-eve-powered-agentic-bot)** - an agentic community-operations bot with approval-gated actions
-- 🧭 **[CareerAI](https://github.com/RealBhupesh/careernavig)** - AI skill analysis, resume feedback, mock interviews, and career matching
+- 🛡️ **[Valora](https://github.com/RealBhupesh/valora-agentic-bot)** - an agentic community-operations bot with approval-gated actions
+- 🧭 **[CareerAI](https://github.com/RealBhupesh/career-ai-platform)** - AI skill analysis, resume feedback, mock interviews, and career matching
+- 🏥 **[HospitalIQ](https://github.com/RealBhupesh/hospital-iq)** - AI-assisted hospital triage, doctor assignment, and clinical operations
+- 📝 **[AI Resume Reviewer](https://github.com/RealBhupesh/ai-resume-reviewer)** - structured resume analysis presented through a React and TypeScript interface
 
 ### Products
 
-- 🏋️ **[AI Fitness Coach](https://github.com/RealBhupesh/fitness-coach-final)** - a production-oriented coaching platform built with Next.js and MediaPipe
-- 📡 **[Beacon Uptime](https://github.com/RealBhupesh/native-uptime)** - private uptime operations on Cloudflare Workers, D1, Queues, and Browser Rendering
+- 🏋️ **[AI Fitness Coach](https://github.com/RealBhupesh/ai-fitness-coach)** - a production-oriented coaching platform built with Next.js and MediaPipe
+- 📡 **[Beacon Uptime](https://github.com/RealBhupesh/beacon-uptime)** - private uptime operations on Cloudflare Workers, D1, Queues, and Browser Rendering
 - 🎬 **[CollabClash](https://github.com/RealBhupesh/creators-clash)** - an Android platform for creator discovery, messaging, and project collaboration
+- 🥻 **[Maiee Sarees](https://github.com/RealBhupesh/maiee-sarees-platform)** - full-stack artisanal saree commerce with checkout, tracking, and administration
+- 🗳️ **[Pollify](https://github.com/RealBhupesh/pollify)** - room-code polling with creation, sharing, participation, and live results
+- 🌐 **[NovaPulse](https://github.com/RealBhupesh/novapulse-platform)** - a full-stack Next.js platform with auth, dashboards, administration, and realtime collaboration
+- 🚢 **[Maharashtra Trade Hub](https://github.com/RealBhupesh/maharashtra-trade-hub)** - a portal connecting regional businesses with global trade opportunities
+
+### Tools & Automation
+
+- ⏱️ **[Focus Timer](https://github.com/RealBhupesh/focus-timer)** - an advanced Pomodoro timer with themes, statistics, and productivity controls
+- 🧾 **[Vmedulife Feedback Autofill](https://github.com/RealBhupesh/vmedulife-feedback-autofill)** - a Brave extension that accelerates repetitive student feedback forms
+- 🎨 **[Anthra AI Whiteboard](https://github.com/RealBhupesh/anthra-ai-whiteboard)** - collaborative brainstorming that turns free-form ideas into structured insights
+- 🔐 **[Secure Login System](https://github.com/RealBhupesh/secure-login-system)** - a Node.js, Express, and MySQL authentication implementation
 
 ## GitHub Activity
 
@@ -69,99 +83,99 @@ profile, with forks clearly separated from original work.
 <details>
 <summary><strong>67 original repositories</strong></summary>
 
-| Repository | Primary language |
+| Repository | What it contains |
 |---|---|
-| [pintu-bot](https://github.com/RealBhupesh/pintu-bot) | Python |
-| [mesh-solver-v1](https://github.com/RealBhupesh/mesh-solver-v1) | Python |
-| [fitness-coach-final](https://github.com/RealBhupesh/fitness-coach-final) | TypeScript |
-| [physicore-website](https://github.com/RealBhupesh/physicore-website) | HTML |
-| [untilrich](https://github.com/RealBhupesh/untilrich) | HTML |
-| [testing-physics-engine](https://github.com/RealBhupesh/testing-physics-engine) | Python |
-| [physics-engine](https://github.com/RealBhupesh/physics-engine) | Python |
-| [vmedulife-automate](https://github.com/RealBhupesh/vmedulife-automate) | JavaScript |
-| [vercel-eve-powered-agentic-bot](https://github.com/RealBhupesh/vercel-eve-powered-agentic-bot) | TypeScript |
-| [native-uptime](https://github.com/RealBhupesh/native-uptime) | TypeScript |
-| [careernavig](https://github.com/RealBhupesh/careernavig) | TypeScript |
-| [medicalbill](https://github.com/RealBhupesh/medicalbill) | Python |
-| [agritech](https://github.com/RealBhupesh/agritech) | CSS |
-| [to-do-list-siddesh-](https://github.com/RealBhupesh/to-do-list-siddesh-) | JavaScript |
-| [bank-vedant](https://github.com/RealBhupesh/bank-vedant) | JavaScript |
-| [aidcbot](https://github.com/RealBhupesh/aidcbot) | Other |
-| [todo](https://github.com/RealBhupesh/todo) | JavaScript |
-| [doctor-appointment](https://github.com/RealBhupesh/doctor-appointment) | Python |
-| [NeoCity](https://github.com/RealBhupesh/NeoCity) | Other |
-| [maee-family](https://github.com/RealBhupesh/maee-family) | TypeScript |
-| [Spa4Car](https://github.com/RealBhupesh/Spa4Car) | HTML |
-| [percentageClock](https://github.com/RealBhupesh/percentageClock) | CSS |
-| [credit-card](https://github.com/RealBhupesh/credit-card) | HTML |
-| [revamp-design](https://github.com/RealBhupesh/revamp-design) | JavaScript |
-| [Gift4corpAdminCodex](https://github.com/RealBhupesh/Gift4corpAdminCodex) | JavaScript |
-| [gayatrisarthi](https://github.com/RealBhupesh/gayatrisarthi) | TypeScript |
-| [timereapp](https://github.com/RealBhupesh/timereapp) | HTML |
-| [githubrepo1](https://github.com/RealBhupesh/githubrepo1) | TypeScript |
-| [fitnessapp](https://github.com/RealBhupesh/fitnessapp) | Kotlin |
-| [githubrepo4](https://github.com/RealBhupesh/githubrepo4) | Other |
-| [githubrepo3](https://github.com/RealBhupesh/githubrepo3) | Other |
-| [githubrepo2](https://github.com/RealBhupesh/githubrepo2) | Other |
-| [whiteboard-anthra](https://github.com/RealBhupesh/whiteboard-anthra) | TypeScript |
-| [import-export](https://github.com/RealBhupesh/import-export) | TypeScript |
-| [meandher](https://github.com/RealBhupesh/meandher) | TypeScript |
-| [anthraVoting](https://github.com/RealBhupesh/anthraVoting) | TypeScript |
-| [personalwebsite-](https://github.com/RealBhupesh/personalwebsite-) | TypeScript |
-| [collegeProjectRepo](https://github.com/RealBhupesh/collegeProjectRepo) | JavaScript |
-| [waitlist-for-anthra](https://github.com/RealBhupesh/waitlist-for-anthra) | Other |
-| [creators-clash](https://github.com/RealBhupesh/creators-clash) | Kotlin |
-| [to-do-list-app](https://github.com/RealBhupesh/to-do-list-app) | HTML |
-| [fictional-carnival](https://github.com/RealBhupesh/fictional-carnival) | TypeScript |
-| [timepassbak](https://github.com/RealBhupesh/timepassbak) | TypeScript |
-| [ctonewagents](https://github.com/RealBhupesh/ctonewagents) | CSS |
-| [CareerNavigator](https://github.com/RealBhupesh/CareerNavigator) | TypeScript |
-| [multi-currency-converter-pro](https://github.com/RealBhupesh/multi-currency-converter-pro) | TypeScript |
-| [blahblah](https://github.com/RealBhupesh/blahblah) | Other |
-| [personal-website-using-opus](https://github.com/RealBhupesh/personal-website-using-opus) | Other |
-| [my_miniproject](https://github.com/RealBhupesh/my_miniproject) | Python |
-| [glowing-goggles](https://github.com/RealBhupesh/glowing-goggles) | PHP |
-| [infinitecatssite](https://github.com/RealBhupesh/infinitecatssite) | HTML |
-| [secure-login-system-](https://github.com/RealBhupesh/secure-login-system-) | HTML |
-| [polling-system](https://github.com/RealBhupesh/polling-system) | TypeScript |
-| [Pollify_Polling_System](https://github.com/RealBhupesh/Pollify_Polling_System) | Other |
-| [to-do-list](https://github.com/RealBhupesh/to-do-list) | Other |
-| [PollingSystem_clg](https://github.com/RealBhupesh/PollingSystem_clg) | JavaScript |
-| [ProjectSlideWay](https://github.com/RealBhupesh/ProjectSlideWay) | CSS |
-| [new-website-checking](https://github.com/RealBhupesh/new-website-checking) | HTML |
-| [experiment1-website](https://github.com/RealBhupesh/experiment1-website) | HTML |
-| [personalwhiteboard](https://github.com/RealBhupesh/personalwhiteboard) | JavaScript |
-| [PBL-Project-AI-Resume-Reviewer](https://github.com/RealBhupesh/PBL-Project-AI-Resume-Reviewer) | TypeScript |
-| [testingdigitalmarketingsite](https://github.com/RealBhupesh/testingdigitalmarketingsite) | JavaScript |
-| [sujitwebsite](https://github.com/RealBhupesh/sujitwebsite) | JavaScript |
-| [sujitmarketingwebsite](https://github.com/RealBhupesh/sujitmarketingwebsite) | JavaScript |
-| [testingWebsite](https://github.com/RealBhupesh/testingWebsite) | Other |
-| [dedrepo](https://github.com/RealBhupesh/dedrepo) | JavaScript |
-| [website](https://github.com/RealBhupesh/website) | Other |
+| [pintu-bot](https://github.com/RealBhupesh/pintu-bot) | Discord moderation, AI utilities, music, community tools, and a virtual economy. |
+| [physicore-pcann](https://github.com/RealBhupesh/physicore-pcann) | Physics-controlled neural network for 2D airfoil flow with custom autodiff and CFD export. |
+| [ai-fitness-coach](https://github.com/RealBhupesh/ai-fitness-coach) | AI fitness, dance, and nutrition coaching with real-time pose feedback. |
+| [physicore-website](https://github.com/RealBhupesh/physicore-website) | Marketing site for the Physicore deterministic physics-engine work. |
+| [untilrich](https://github.com/RealBhupesh/untilrich) | A personal milestone page titled “Until Bhupesh Becomes Rich.” |
+| [naca4418-cfd-kernel](https://github.com/RealBhupesh/naca4418-cfd-kernel) | Standalone finite-volume RANS CFD kernel for a NACA 4418 airfoil. |
+| [aeroassist](https://github.com/RealBhupesh/aeroassist) | Local aerodynamic analysis, mini-CFD solving, and interactive 3D visualization. |
+| [vmedulife-feedback-autofill](https://github.com/RealBhupesh/vmedulife-feedback-autofill) | Brave extension for autofilling repetitive Vmedulife student feedback forms. |
+| [valora-agentic-bot](https://github.com/RealBhupesh/valora-agentic-bot) | Discord community-operations agent with specialist subagents and approval gates. |
+| [beacon-uptime](https://github.com/RealBhupesh/beacon-uptime) | Cloudflare-native uptime monitoring with endpoint checks, browser journeys, and alerts. |
+| [career-ai-platform](https://github.com/RealBhupesh/career-ai-platform) | AI career guidance with resume analysis, interviews, and job matching. |
+| [hospital-iq](https://github.com/RealBhupesh/hospital-iq) | AI-assisted hospital triage, doctor assignment, and clinical workflow management. |
+| [agripulse](https://github.com/RealBhupesh/agripulse) | Agriculture platform exploring IoT, drones, water management, and distribution. |
+| [daily-planner](https://github.com/RealBhupesh/daily-planner) | Daily planning and task-management interface with Python utilities. |
+| [vedant-bank-demo](https://github.com/RealBhupesh/vedant-bank-demo) | Online banking interface covering accounts, transfers, cards, and statements. |
+| [aidcbot](https://github.com/RealBhupesh/aidcbot) | Empty placeholder reserved for a Discord bot. |
+| [vanilla-js-todo](https://github.com/RealBhupesh/vanilla-js-todo) | Minimal to-do application built with vanilla web technologies. |
+| [book-it-doctor-appointments](https://github.com/RealBhupesh/book-it-doctor-appointments) | Flask application for doctor discovery and appointment scheduling. |
+| [NeoCity](https://github.com/RealBhupesh/NeoCity) | Empty experimental project placeholder. |
+| [maiee-sarees-platform](https://github.com/RealBhupesh/maiee-sarees-platform) | Full-stack artisanal saree commerce with checkout, tracking, and administration. |
+| [Spa4Car](https://github.com/RealBhupesh/Spa4Car) | Static website concept for automotive care and detailing services. |
+| [year-progress-clock](https://github.com/RealBhupesh/year-progress-clock) | Visual clock showing how much of the current year has elapsed. |
+| [credit-card-celebration](https://github.com/RealBhupesh/credit-card-celebration) | Playful single-page celebration for a first credit-card milestone. |
+| [your-campus-merch](https://github.com/RealBhupesh/your-campus-merch) | React storefront experience for discovering and buying campus merchandise. |
+| [gift4corp-admin-dashboard](https://github.com/RealBhupesh/gift4corp-admin-dashboard) | Administrative dashboard for Gift4Corp operations and content. |
+| [vidhyasarthi-quiz](https://github.com/RealBhupesh/vidhyasarthi-quiz) | Quiz application created for the Vidhyasarthi learning experience. |
+| [tempo-timer](https://github.com/RealBhupesh/tempo-timer) | Minimal browser-based timer called Tempo. |
+| [focus-timer](https://github.com/RealBhupesh/focus-timer) | Advanced Pomodoro timer with themes, statistics, and productivity controls. |
+| [fitnessapp](https://github.com/RealBhupesh/fitnessapp) | Kotlin Android fitness application developed as a FitForge concept. |
+| [githubrepo4](https://github.com/RealBhupesh/githubrepo4) | Empty experimental repository. |
+| [githubrepo3](https://github.com/RealBhupesh/githubrepo3) | Empty experimental repository. |
+| [githubrepo2](https://github.com/RealBhupesh/githubrepo2) | Empty experimental repository. |
+| [anthra-ai-whiteboard](https://github.com/RealBhupesh/anthra-ai-whiteboard) | AI collaborative whiteboard that structures free-form brainstorming. |
+| [maharashtra-trade-hub](https://github.com/RealBhupesh/maharashtra-trade-hub) | Trade portal connecting Maharashtra businesses with global opportunities. |
+| [couples-companion-app](https://github.com/RealBhupesh/couples-companion-app) | React Native app for shared memories, goals, planning, and activities. |
+| [anthra-voting](https://github.com/RealBhupesh/anthra-voting) | Voting platform with secure participation, live analytics, and administration. |
+| [anthra-agency-website](https://github.com/RealBhupesh/anthra-agency-website) | Interactive Next.js site for Anthra digital agency services. |
+| [collegeProjectRepo](https://github.com/RealBhupesh/collegeProjectRepo) | College-project monorepo containing separate mobile and web applications. |
+| [waitlist-for-anthra](https://github.com/RealBhupesh/waitlist-for-anthra) | Empty placeholder reserved for the Anthra waitlist. |
+| [creators-clash](https://github.com/RealBhupesh/creators-clash) | Android creator-collaboration app with discovery, messaging, and projects. |
+| [single-file-todo-app](https://github.com/RealBhupesh/single-file-todo-app) | Compact to-do application implemented in one HTML file. |
+| [novapulse-platform](https://github.com/RealBhupesh/novapulse-platform) | Full-stack platform with auth, dashboards, administration, and realtime collaboration. |
+| [sweetcrumb-bakery](https://github.com/RealBhupesh/sweetcrumb-bakery) | Bakery commerce site with catalog, inquiries, ordering, and newsletter flows. |
+| [binix-it-services](https://github.com/RealBhupesh/binix-it-services) | Marketing website for IT services and digital transformation. |
+| [anushka-career-navigator](https://github.com/RealBhupesh/anushka-career-navigator) | Flask career-navigation demo with profiles, resumes, jobs, and interviews. |
+| [multi-currency-converter-pro](https://github.com/RealBhupesh/multi-currency-converter-pro) | TypeScript application for converting and comparing multiple currencies. |
+| [blahblah](https://github.com/RealBhupesh/blahblah) | One-commit scratch repository retained for history. |
+| [personal-website-using-opus](https://github.com/RealBhupesh/personal-website-using-opus) | Empty placeholder for a personal website experiment. |
+| [python-security-mini-projects](https://github.com/RealBhupesh/python-security-mini-projects) | Password-strength and text-encryption mini-projects in Python. |
+| [php-mini-projects](https://github.com/RealBhupesh/php-mini-projects) | PHP trackers, calculators, registration flows, and inventory exercises. |
+| [infinite-cats](https://github.com/RealBhupesh/infinite-cats) | Playful single-page website dedicated to an endless stream of cats. |
+| [secure-login-system](https://github.com/RealBhupesh/secure-login-system) | Node.js, Express, and MySQL authentication workflow. |
+| [pollify](https://github.com/RealBhupesh/pollify) | Room-code polling with creation, sharing, participation, and live results. |
+| [Pollify_Polling_System](https://github.com/RealBhupesh/Pollify_Polling_System) | Empty placeholder for an earlier Pollify implementation. |
+| [to-do-list](https://github.com/RealBhupesh/to-do-list) | Empty placeholder for an early task-list exercise. |
+| [internship-polling-system](https://github.com/RealBhupesh/internship-polling-system) | Internship polling exercise using JavaScript, JSX, and C++ components. |
+| [gayatri-gallery-shop](https://github.com/RealBhupesh/gayatri-gallery-shop) | Responsive visual gallery, shop, and project showcase. |
+| [new-website-checking](https://github.com/RealBhupesh/new-website-checking) | Archived HTTrack mirror used for frontend study. |
+| [experiment1-website](https://github.com/RealBhupesh/experiment1-website) | Static interface mirror retained as an early web experiment. |
+| [folio-whiteboard-study](https://github.com/RealBhupesh/folio-whiteboard-study) | Study and adaptation of the Folio infinite whiteboard. |
+| [ai-resume-reviewer](https://github.com/RealBhupesh/ai-resume-reviewer) | React and TypeScript interface for structured resume feedback. |
+| [digital-marketing-site](https://github.com/RealBhupesh/digital-marketing-site) | React marketing website for strategy, services, and lead generation. |
+| [shield-grow-website](https://github.com/RealBhupesh/shield-grow-website) | React website for the Shield Grow brand and its services. |
+| [digital-marketing-terminal](https://github.com/RealBhupesh/digital-marketing-terminal) | Marketing site with an interactive terminal-style business experience. |
+| [testingWebsite](https://github.com/RealBhupesh/testingWebsite) | Empty historical testing repository. |
+| [portfolio-site-study](https://github.com/RealBhupesh/portfolio-site-study) | Portfolio study adapted from a freeCodeCamp project. |
+| [website](https://github.com/RealBhupesh/website) | Empty placeholder for an early main-website repository. |
 
 </details>
 
 <details>
 <summary><strong>16 forks and open-source explorations</strong></summary>
 
-| Repository | Primary language |
+| Repository | What I explored |
 |---|---|
-| [open-webui](https://github.com/RealBhupesh/open-webui) | Other |
-| [DocsGPT](https://github.com/RealBhupesh/DocsGPT) | Python |
-| [x-algorithm](https://github.com/RealBhupesh/x-algorithm) | Other |
-| [kalshi-genai-trading-bot](https://github.com/RealBhupesh/kalshi-genai-trading-bot) | Python |
-| [lokus](https://github.com/RealBhupesh/lokus) | JavaScript |
-| [cofeed-19.github.io](https://github.com/RealBhupesh/cofeed-19.github.io) | Other |
-| [servo](https://github.com/RealBhupesh/servo) | Other |
-| [PLSduino](https://github.com/RealBhupesh/PLSduino) | C++ |
-| [oppia](https://github.com/RealBhupesh/oppia) | Python |
-| [first-contributions](https://github.com/RealBhupesh/first-contributions) | Other |
-| [Gift4corp](https://github.com/RealBhupesh/Gift4corp) | Other |
-| [Gift4corpAdmin](https://github.com/RealBhupesh/Gift4corpAdmin) | JavaScript |
-| [wastex-ai-management-platform](https://github.com/RealBhupesh/wastex-ai-management-platform) | Other |
-| [flexifit-ai](https://github.com/RealBhupesh/flexifit-ai) | Other |
-| [facebook-clone](https://github.com/RealBhupesh/facebook-clone) | Other |
-| [twitter-clone](https://github.com/RealBhupesh/twitter-clone) | Other |
+| [open-webui](https://github.com/RealBhupesh/open-webui) | Self-hosted interface patterns for local and hosted language models. |
+| [DocsGPT](https://github.com/RealBhupesh/DocsGPT) | Document analysis, agent building, enterprise search, and multi-model workflows. |
+| [x-algorithm](https://github.com/RealBhupesh/x-algorithm) | The open-source recommendation algorithm behind X’s For You feed. |
+| [kalshi-genai-trading-bot](https://github.com/RealBhupesh/kalshi-genai-trading-bot) | Generative-AI experimentation for prediction-market trading. |
+| [lokus](https://github.com/RealBhupesh/lokus) | Modern note-taking architecture and rich editing workflows. |
+| [cofeed-19.github.io](https://github.com/RealBhupesh/cofeed-19.github.io) | A private, client-only feed reader with no accounts or tracking. |
+| [servo](https://github.com/RealBhupesh/servo) | Embeddable browser-engine architecture and high-performance web rendering. |
+| [PLSduino](https://github.com/RealBhupesh/PLSduino) | Partial Least Squares modeling for Arduino and ESP32 hardware. |
+| [oppia](https://github.com/RealBhupesh/oppia) | Open-source educational platform architecture and contribution workflow. |
+| [first-contributions](https://github.com/RealBhupesh/first-contributions) | The open-source contribution process for first-time contributors. |
+| [Gift4corp](https://github.com/RealBhupesh/Gift4corp) | Gift4Corp application code used as the foundation for related admin work. |
+| [Gift4corpAdmin](https://github.com/RealBhupesh/Gift4corpAdmin) | Earlier Gift4Corp administration interface and design exploration. |
+| [wastex-ai-management-platform](https://github.com/RealBhupesh/wastex-ai-management-platform) | AI-assisted waste-management platform concept. |
+| [flexifit-ai](https://github.com/RealBhupesh/flexifit-ai) | React and Vite fitness-product interface exploration. |
+| [facebook-clone](https://github.com/RealBhupesh/facebook-clone) | Responsive React and Firebase implementation of login and posting flows. |
+| [twitter-clone](https://github.com/RealBhupesh/twitter-clone) | Social-feed interface and interaction study based on X/Twitter. |
 
 </details>
 

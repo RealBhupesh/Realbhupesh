@@ -17,6 +17,10 @@ and giving software agents useful work to do.
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-E85D04?style=flat-square)
+![Hermes Agent](https://img.shields.io/badge/-Hermes_Agent-4F46E5?style=flat-square)
 
 ## Start Here
 

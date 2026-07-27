@@ -60,7 +60,6 @@ and giving software agents useful work to do.
 - 🏋️ **[AI Fitness Coach](https://github.com/RealBhupesh/ai-fitness-coach)** - a production-oriented coaching platform built with Next.js and MediaPipe
 - 📡 **[Beacon Uptime](https://github.com/RealBhupesh/beacon-uptime)** - private uptime operations on Cloudflare Workers, D1, Queues, and Browser Rendering
 - 🎬 **[CollabClash](https://github.com/RealBhupesh/creators-clash)** - an Android platform for creator discovery, messaging, and project collaboration
-- 🥻 **[Maiee Sarees](https://github.com/RealBhupesh/maiee-sarees-platform)** - full-stack artisanal saree commerce with checkout, tracking, and administration
 - 🗳️ **[Pollify](https://github.com/RealBhupesh/pollify)** - room-code polling with creation, sharing, participation, and live results
 - 🌐 **[NovaPulse](https://github.com/RealBhupesh/novapulse-platform)** - a full-stack Next.js platform with auth, dashboards, administration, and realtime collaboration
 - 🚢 **[Maharashtra Trade Hub](https://github.com/RealBhupesh/maharashtra-trade-hub)** - a portal connecting regional businesses with global trade opportunities
@@ -85,11 +84,11 @@ and giving software agents useful work to do.
 ## Complete Project Index
 
 I keep experiments as well as finished products public. The strongest work is
-featured above; this index contains all 83 project repositories currently on my
-profile, with forks clearly separated from original work.
+featured above; this index presents 80 repositories, with forks clearly
+separated from original work.
 
 <details>
-<summary><strong>67 original repositories</strong></summary>
+<summary><strong>66 original repositories</strong></summary>
 
 | Repository | What it contains |
 |---|---|
@@ -112,7 +111,6 @@ profile, with forks clearly separated from original work.
 | [vanilla-js-todo](https://github.com/RealBhupesh/vanilla-js-todo) | Minimal to-do application built with vanilla web technologies. |
 | [book-it-doctor-appointments](https://github.com/RealBhupesh/book-it-doctor-appointments) | Flask application for doctor discovery and appointment scheduling. |
 | [NeoCity](https://github.com/RealBhupesh/NeoCity) | Empty experimental project placeholder. |
-| [maiee-sarees-platform](https://github.com/RealBhupesh/maiee-sarees-platform) | Full-stack artisanal saree commerce with checkout, tracking, and administration. |
 | [Spa4Car](https://github.com/RealBhupesh/Spa4Car) | Static website concept for automotive care and detailing services. |
 | [year-progress-clock](https://github.com/RealBhupesh/year-progress-clock) | Visual clock showing how much of the current year has elapsed. |
 | [credit-card-celebration](https://github.com/RealBhupesh/credit-card-celebration) | Playful single-page celebration for a first credit-card milestone. |
@@ -164,7 +162,7 @@ profile, with forks clearly separated from original work.
 </details>
 
 <details>
-<summary><strong>16 forks and open-source explorations</strong></summary>
+<summary><strong>14 forks and open-source explorations</strong></summary>
 
 | Repository | What I explored |
 |---|---|
@@ -178,8 +176,6 @@ profile, with forks clearly separated from original work.
 | [PLSduino](https://github.com/RealBhupesh/PLSduino) | Partial Least Squares modeling for Arduino and ESP32 hardware. |
 | [oppia](https://github.com/RealBhupesh/oppia) | Open-source educational platform architecture and contribution workflow. |
 | [first-contributions](https://github.com/RealBhupesh/first-contributions) | The open-source contribution process for first-time contributors. |
-| [Gift4corp](https://github.com/RealBhupesh/Gift4corp) | Gift4Corp application code used as the foundation for related admin work. |
-| [Gift4corpAdmin](https://github.com/RealBhupesh/Gift4corpAdmin) | Earlier Gift4Corp administration interface and design exploration. |
 | [wastex-ai-management-platform](https://github.com/RealBhupesh/wastex-ai-management-platform) | AI-assisted waste-management platform concept. |
 | [flexifit-ai](https://github.com/RealBhupesh/flexifit-ai) | React and Vite fitness-product interface exploration. |
 | [facebook-clone](https://github.com/RealBhupesh/facebook-clone) | Responsive React and Firebase implementation of login and posting flows. |

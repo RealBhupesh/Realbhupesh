@@ -84,11 +84,11 @@ and giving software agents useful work to do.
 ## Complete Project Index
 
 I keep experiments as well as finished products public. The strongest work is
-featured above; this index presents 76 repositories, with forks clearly
+featured above; this index presents 75 repositories, with forks clearly
 separated from original work.
 
 <details>
-<summary><strong>62 original repositories</strong></summary>
+<summary><strong>61 original repositories</strong></summary>
 
 | Repository | What it contains |
 |---|---|
@@ -143,7 +143,6 @@ separated from original work.
 | [Pollify_Polling_System](https://github.com/RealBhupesh/Pollify_Polling_System) | Empty placeholder for an earlier Pollify implementation. |
 | [to-do-list](https://github.com/RealBhupesh/to-do-list) | Empty placeholder for an early task-list exercise. |
 | [internship-polling-system](https://github.com/RealBhupesh/internship-polling-system) | Internship polling exercise using JavaScript, JSX, and C++ components. |
-| [gayatri-gallery-shop](https://github.com/RealBhupesh/gayatri-gallery-shop) | Responsive visual gallery, shop, and project showcase. |
 | [new-website-checking](https://github.com/RealBhupesh/new-website-checking) | Archived HTTrack mirror used for frontend study. |
 | [experiment1-website](https://github.com/RealBhupesh/experiment1-website) | Static interface mirror retained as an early web experiment. |
 | [folio-whiteboard-study](https://github.com/RealBhupesh/folio-whiteboard-study) | Study and adaptation of the Folio infinite whiteboard. |

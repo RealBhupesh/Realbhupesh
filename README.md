@@ -84,11 +84,11 @@ and giving software agents useful work to do.
 ## Complete Project Index
 
 I keep experiments as well as finished products public. The strongest work is
-featured above; this index presents 80 repositories, with forks clearly
+featured above; this index presents 76 repositories, with forks clearly
 separated from original work.
 
 <details>
-<summary><strong>66 original repositories</strong></summary>
+<summary><strong>62 original repositories</strong></summary>
 
 | Repository | What it contains |
 |---|---|
@@ -113,10 +113,6 @@ separated from original work.
 | [NeoCity](https://github.com/RealBhupesh/NeoCity) | Empty experimental project placeholder. |
 | [Spa4Car](https://github.com/RealBhupesh/Spa4Car) | Static website concept for automotive care and detailing services. |
 | [year-progress-clock](https://github.com/RealBhupesh/year-progress-clock) | Visual clock showing how much of the current year has elapsed. |
-| [credit-card-celebration](https://github.com/RealBhupesh/credit-card-celebration) | Playful single-page celebration for a first credit-card milestone. |
-| [your-campus-merch](https://github.com/RealBhupesh/your-campus-merch) | React storefront experience for discovering and buying campus merchandise. |
-| [gift4corp-admin-dashboard](https://github.com/RealBhupesh/gift4corp-admin-dashboard) | Administrative dashboard for Gift4Corp operations and content. |
-| [vidhyasarthi-quiz](https://github.com/RealBhupesh/vidhyasarthi-quiz) | Quiz application created for the Vidhyasarthi learning experience. |
 | [tempo-timer](https://github.com/RealBhupesh/tempo-timer) | Minimal browser-based timer called Tempo. |
 | [focus-timer](https://github.com/RealBhupesh/focus-timer) | Advanced Pomodoro timer with themes, statistics, and productivity controls. |
 | [fitnessapp](https://github.com/RealBhupesh/fitnessapp) | Kotlin Android fitness application developed as a FitForge concept. |

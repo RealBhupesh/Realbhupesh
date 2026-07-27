@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/profile-ribbon.png"
+    alt="A flowing multicolored wireframe ribbon on a black background"
+    width="100%"
+  />
+</p>
+
 # Hi, I'm Bhupesh 👋
 
 🧠 **AI systems** | 🌊 **Computational physics** | 🛠️ **Products that ship**

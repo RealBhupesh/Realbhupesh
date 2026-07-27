@@ -66,13 +66,7 @@ and giving software agents useful work to do.
 
 ## GitHub Activity
 
-<picture>
-  <img
-    src="./assets/contribution-wave.svg"
-    alt="Bhupesh's GitHub contributions over the last year, animated with a soft left-to-right highlight"
-    width="100%"
-  />
-</picture>
+![Bhupesh's GitHub contribution graph](https://gitlyy.vercel.app/api/contribution?username=RealBhupesh&hide_border=true)
 
 ## What I'm Doing
 

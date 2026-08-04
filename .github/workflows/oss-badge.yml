@@ -1,0 +1,33 @@
+name: Update open source stats
+
+on:
+  schedule:
+    - cron: "17 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oss-stats
+  cancel-in-progress: true
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+
+      - name: Generate contribution badge
+        uses: mabd-dev/gh-oss-stats-action@v0.2.3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: RealBhupesh
+          include-loc: true
+          max-prs: 500
+          badge-style: summary
+          badge-theme: dark
+          badge-output-path: oss-stats.svg
+          commit-badge: true
+          commit-message: "chore: update open source stats"

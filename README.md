@@ -75,6 +75,20 @@ and giving software agents useful work to do.
 
 ![Bhupesh's GitHub contribution graph](https://gitlyy.vercel.app/api/contribution?username=RealBhupesh&hide_border=true)
 
+## Open source contributions
+
+<p align="center">
+  <a href="https://github.com/RealBhupesh/Realbhupesh/actions/workflows/oss-badge.yml">
+    <img
+      src="./oss-stats.svg"
+      alt="Live summary of RealBhupesh's open source contributions"
+      width="400"
+    />
+  </a>
+</p>
+
+Updated weekly by [`gh-oss-stats`](https://github.com/mabd-dev/gh-oss-stats). The badge tracks merged pull requests to other public repositories.
+
 ## What I'm Doing
 
 - **Building intelligent tools** - agents that moderate, explain, coach, and automate

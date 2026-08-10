@@ -19,12 +19,16 @@ and giving software agents useful work to do.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-111111?style=flat-square&logo=cursor&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-E85D04?style=flat-square)
@@ -32,16 +36,19 @@ and giving software agents useful work to do.
 
 ## Start Here
 
-- 🤖 **[Pintu Bot](https://github.com/RealBhupesh/pintu-bot)** (50+ stars) - a Discord community bot with moderation, AI tools, music, and a complete virtual economy
+- 🤖 **[Bell Agentic Discord Bot](https://github.com/RealBhupesh/Bell-Agentic-Discord-Bot)** (50+ stars) - a Discord community bot with moderation, AI tools, music, and a complete virtual economy
 - ✈️ **[Physicore PCANN](https://github.com/RealBhupesh/physicore-pcann)** - physics-controlled neural networks for 2D airfoil flow, powered by a custom autodiff engine
 - 🏋️ **[AI Fitness Coach](https://github.com/RealBhupesh/ai-fitness-coach)** - real-time posture feedback, dance scoring, training plans, and nutrition coaching
+- 🏠 **[Nestly Homes](https://github.com/RealBhupesh/nestly-homes)** - AI-assisted housing search with maps, tours, messaging, and owner tools
+- 🔐 **[FileVault](https://github.com/RealBhupesh/sega32)** - compressed, chunked, encrypted file storage with integrity verification
 - 📡 **[Beacon Uptime](https://github.com/RealBhupesh/beacon-uptime)** - Cloudflare-native uptime monitoring with safe endpoint discovery and browser journeys
-- 🏎️ **[AeroAssist](https://github.com/RealBhupesh/aeroassist)** - local-first aerodynamic analysis with a mini-CFD solver and interactive 3D visualization
 
 ## Current Projects
 
 ### Physics & Engineering
 
+- 🧩 **[Physicore PPAME](https://github.com/RealBhupesh/building-mesh)** - deterministic physics-aware structured meshing and y+ resolution prediction for NACA airfoils
+- 🧠 **[Physicore PCANN Backend](https://github.com/RealBhupesh/frontend-NACA4418)** - custom autodiff, physics residuals, and field export for neural airfoil-flow prediction
 - 🌊 **[Physicore PCANN](https://github.com/RealBhupesh/physicore-pcann)** - airfoil-flow prediction with exact spatial derivatives and Navier-Stokes residuals
 - 🏎️ **[AeroAssist](https://github.com/RealBhupesh/aeroassist)** - transparent engineering calculations, local CFD, and AI-assisted explanations
 - 🛩️ **[NACA 4418 CFD Kernel](https://github.com/RealBhupesh/naca4418-cfd-kernel)** - a standalone finite-volume RANS solver written in Python
@@ -49,7 +56,7 @@ and giving software agents useful work to do.
 
 ### AI Agents & Communities
 
-- 🤖 **[Pintu Bot](https://github.com/RealBhupesh/pintu-bot)** - AI-enhanced Discord moderation and community automation
+- 🤖 **[Bell Agentic Discord Bot](https://github.com/RealBhupesh/Bell-Agentic-Discord-Bot)** - AI-enhanced Discord moderation and community automation
 - 🛡️ **[Valora](https://github.com/RealBhupesh/valora-agentic-bot)** - an agentic community-operations bot with approval-gated actions
 - 🧭 **[CareerAI](https://github.com/RealBhupesh/career-ai-platform)** - AI skill analysis, resume feedback, mock interviews, and career matching
 - 🏥 **[HospitalIQ](https://github.com/RealBhupesh/hospital-iq)** - AI-assisted hospital triage, doctor assignment, and clinical operations
@@ -57,6 +64,8 @@ and giving software agents useful work to do.
 
 ### Products
 
+- 🏠 **[Nestly Homes](https://github.com/RealBhupesh/nestly-homes)** - full-stack housing marketplace with natural-language search, maps, tours, messaging, and verification
+- 🏨 **[Vinit Hotel OS](https://github.com/RealBhupesh/vinit-hotel)** - operations-first hotel workspace for reservations, rooms, housekeeping, inventory, billing, and reports
 - 🏋️ **[AI Fitness Coach](https://github.com/RealBhupesh/ai-fitness-coach)** - a production-oriented coaching platform built with Next.js and MediaPipe
 - 📡 **[Beacon Uptime](https://github.com/RealBhupesh/beacon-uptime)** - private uptime operations on Cloudflare Workers, D1, Queues, and Browser Rendering
 - 🎬 **[CollabClash](https://github.com/RealBhupesh/creators-clash)** - an Android platform for creator discovery, messaging, and project collaboration
@@ -66,10 +75,17 @@ and giving software agents useful work to do.
 
 ### Tools & Automation
 
+- 🔐 **[FileVault](https://github.com/RealBhupesh/sega32)** - Spring Boot and Java CLI storage with streaming compression, chunking, optional AES-256-GCM, and SHA-256 verification
 - ⏱️ **[Focus Timer](https://github.com/RealBhupesh/focus-timer)** - an advanced Pomodoro timer with themes, statistics, and productivity controls
 - 🧾 **[Vmedulife Feedback Autofill](https://github.com/RealBhupesh/vmedulife-feedback-autofill)** - a Brave extension that accelerates repetitive student feedback forms
 - 🎨 **[Anthra AI Whiteboard](https://github.com/RealBhupesh/anthra-ai-whiteboard)** - collaborative brainstorming that turns free-form ideas into structured insights
 - 🔐 **[Secure Login System](https://github.com/RealBhupesh/secure-login-system)** - a Node.js, Express, and MySQL authentication implementation
+
+## Open Source Contributions
+
+- 📝 **[Lokus #439](https://github.com/lokus-ai/lokus/pull/439)** - merged plain-text note support and workspace agenda/task improvements with parser and UI tests
+- 🧪 **[Kalshi GenAI Bot #13](https://github.com/ajwann/kalshi-genai-trading-bot/pull/13)** - added Ruff linting, Python cleanup, and GitHub Actions CI enforcement
+- 🎯 **[Kalshi GenAI Bot #14](https://github.com/ajwann/kalshi-genai-trading-bot/pull/14)** - injected authoritative market and series settlement rules into Grok prompts with caching and tests
 
 ## GitHub Activity
 
@@ -84,17 +100,22 @@ and giving software agents useful work to do.
 ## Complete Project Index
 
 I keep experiments as well as finished products public. The strongest work is
-featured above; this index presents 75 repositories, with forks clearly
+featured above; this index presents 80 repositories, with forks clearly
 separated from original work.
 
 <details>
-<summary><strong>61 original repositories</strong></summary>
+<summary><strong>66 original repositories</strong></summary>
 
 | Repository | What it contains |
 |---|---|
-| [pintu-bot](https://github.com/RealBhupesh/pintu-bot) | Discord moderation, AI utilities, music, community tools, and a virtual economy. |
+| [Bell-Agentic-Discord-Bot](https://github.com/RealBhupesh/Bell-Agentic-Discord-Bot) | Discord moderation, AI utilities, music, community tools, and a virtual economy. |
 | [physicore-pcann](https://github.com/RealBhupesh/physicore-pcann) | Physics-controlled neural network for 2D airfoil flow with custom autodiff and CFD export. |
 | [ai-fitness-coach](https://github.com/RealBhupesh/ai-fitness-coach) | AI fitness, dance, and nutrition coaching with real-time pose feedback. |
+| [nestly-homes](https://github.com/RealBhupesh/nestly-homes) | AI-assisted housing marketplace with natural-language search, maps, tours, messaging, and owner tools. |
+| [building-mesh](https://github.com/RealBhupesh/building-mesh) | Deterministic physics-aware structured meshing and y+ prediction for NACA airfoils. |
+| [frontend-NACA4418](https://github.com/RealBhupesh/frontend-NACA4418) | Physics-controlled neural-network backend with custom autodiff, residuals, and field export. |
+| [sega32](https://github.com/RealBhupesh/sega32) | FileVault storage service with compression, fixed-size chunks, optional encryption, and integrity checks. |
+| [vinit-hotel](https://github.com/RealBhupesh/vinit-hotel) | Hotel operations workspace covering reservations, rooms, housekeeping, inventory, billing, and reports. |
 | [physicore-website](https://github.com/RealBhupesh/physicore-website) | Marketing site for the Physicore deterministic physics-engine work. |
 | [untilrich](https://github.com/RealBhupesh/untilrich) | A personal milestone page titled “Until Bhupesh Becomes Rich.” |
 | [naca4418-cfd-kernel](https://github.com/RealBhupesh/naca4418-cfd-kernel) | Standalone finite-volume RANS CFD kernel for a NACA 4418 airfoil. |

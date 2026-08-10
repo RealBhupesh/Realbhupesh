@@ -83,6 +83,22 @@ and giving software agents useful work to do.
 
 ## Open Source Contributions
 
+### Recent merged work
+
+- 🤖 **[NanoCoder #830](https://github.com/Nano-Collective/nanocoder/pull/830)** - restored ACP provider discovery for agent sessions
+- 🧠 **[NanoCoder #820](https://github.com/Nano-Collective/nanocoder/pull/820)** - normalized Atlas Cloud GPT-5.6 model identifiers
+- 🧰 **[NanoCoder #798](https://github.com/Nano-Collective/nanocoder/pull/798)** - bounded `diff_edit` result context to keep tool output manageable
+- 🧰 **[NanoCoder #786](https://github.com/Nano-Collective/nanocoder/pull/786)** - capped oversized tool results to protect context and responsiveness
+- 🧰 **[NanoCoder #784](https://github.com/Nano-Collective/nanocoder/pull/784)** - bounded `string_replace` result context
+- 📂 **[NanoCoder #782](https://github.com/Nano-Collective/nanocoder/pull/782)** - previewed very large files before ranged reads
+- 🧠 **[NanoCoder #743](https://github.com/Nano-Collective/nanocoder/pull/743)** - documented a local-first memory MCP recipe
+- ⌨️ **[NanoCoder #744](https://github.com/Nano-Collective/nanocoder/pull/744)** - preserved multibyte input in the alternate-screen TUI
+- 🖥️ **[NanoCoder #742](https://github.com/Nano-Collective/nanocoder/pull/742)** - fixed wide-terminal content sizing
+- 🔄 **[NanoCoder #741](https://github.com/Nano-Collective/nanocoder/pull/741)** - improved update checks, cache detection, and network error classification
+- 🧩 **[PhysiMesh v2 #2](https://github.com/PhysiCoreEngine12/automesh-notion-Valid-Nova1/pull/2)** - merged a physics-coherent, certified aero-meshing workflow
+
+### Earlier merged work
+
 - 📝 **[Lokus #439](https://github.com/lokus-ai/lokus/pull/439)** - merged plain-text note support and workspace agenda/task improvements with parser and UI tests
 - 🧪 **[Kalshi GenAI Bot #13](https://github.com/ajwann/kalshi-genai-trading-bot/pull/13)** - added Ruff linting, Python cleanup, and GitHub Actions CI enforcement
 - 🎯 **[Kalshi GenAI Bot #14](https://github.com/ajwann/kalshi-genai-trading-bot/pull/14)** - injected authoritative market and series settlement rules into Grok prompts with caching and tests

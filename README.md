@@ -176,6 +176,10 @@ Credit is verified against public commit trailers or explicit maintainer attribu
 
 [Browse my pull requests](https://github.com/pulls?q=is%3Apr+author%3ARealBhupesh) · [Contribution calendar and activity](https://github.com/RealBhupesh?tab=overview)
 
+## GitHub activity
+
+![Bhupesh's GitHub contribution graph](https://gitlyy.vercel.app/api/contribution?username=RealBhupesh&hide_border=true)
+
 ## Complete repository index
 
 **123 public repositories: 78 project repositories and 45 forks.** Checked on **22 October 2026**. Both lists are alphabetical and include experiments and empty repositories, labelled where applicable.

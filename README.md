@@ -178,7 +178,7 @@ Credit is verified against public commit trailers or explicit maintainer attribu
 
 ## GitHub activity
 
-![Bhupesh's GitHub contribution graph](https://gitlyy.vercel.app/api/contribution?username=RealBhupesh&hide_border=true)
+![Bhupesh's GitHub contribution graph](https://ghchart.rshah.org/RealBhupesh)
 
 ## Complete repository index
 
